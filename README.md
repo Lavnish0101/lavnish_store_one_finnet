@@ -1,7 +1,7 @@
 ## Live Demo
 
 Try the App live here:
-- **Frontend**: [OneFinnet](https://onefinnet-six.vercel.app/)
+- **Frontend**: [LavnishStoreOneFinnet](https://lavnishstoreonefinnet.vercel.app/)
 
 
 ## Installation for running locally
@@ -10,7 +10,7 @@ Try the App live here:
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/harshal-1/one_finnet
+   git clone https://github.com/Lavnish0101/lavnish_store_one_finnet
 
 2. **Install Frontend Dependencies**
    ```bash
